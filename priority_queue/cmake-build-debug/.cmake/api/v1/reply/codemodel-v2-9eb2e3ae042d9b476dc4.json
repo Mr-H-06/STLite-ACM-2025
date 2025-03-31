@@ -1,0 +1,101 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "priority_queue_five::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-priority_queue_five-Debug-d7aff44f6243c81686b7.json",
+					"name" : "priority_queue_five",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "priority_queue_four::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-priority_queue_four-Debug-fd3ec16b2d08f99a34c9.json",
+					"name" : "priority_queue_four",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "priority_queue_one::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-priority_queue_one-Debug-6c5b7257bd5c0aec1841.json",
+					"name" : "priority_queue_one",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "priority_queue_six::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-priority_queue_six-Debug-e42c80d891e412ce4662.json",
+					"name" : "priority_queue_six",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "priority_queue_three::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-priority_queue_three-Debug-af9395587f925b263822.json",
+					"name" : "priority_queue_three",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "priority_queue_two::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-priority_queue_two-Debug-c4857745c1cf9d3cfc11.json",
+					"name" : "priority_queue_two",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/c/Users/hejia/Desktop/STLite-ACM-2025/priority_queue/cmake-build-debug",
+		"source" : "/mnt/c/Users/hejia/Desktop/STLite-ACM-2025/priority_queue"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
