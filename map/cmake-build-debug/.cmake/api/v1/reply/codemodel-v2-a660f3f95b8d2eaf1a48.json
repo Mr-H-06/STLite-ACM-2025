@@ -1,0 +1,128 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "corner_one::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-corner_one-Debug-4f518490f1d78e8468bf.json",
+					"name" : "corner_one",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "corner_three::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-corner_three-Debug-b7f6d23d098e6a44c02e.json",
+					"name" : "corner_three",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "corner_two::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-corner_two-Debug-ce825ca4b0aba4aa548b.json",
+					"name" : "corner_two",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "map_five::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-map_five-Debug-abf544ac39851e3b0a8a.json",
+					"name" : "map_five",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "map_four::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-map_four-Debug-b6835a73c2d5a7fada84.json",
+					"name" : "map_four",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "map_one::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-map_one-Debug-4481ea88f675d5bbc37a.json",
+					"name" : "map_one",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "map_three::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-map_three-Debug-7b807583572dd7be92dc.json",
+					"name" : "map_three",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "map_two::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-map_two-Debug-9a2460b11b245171b79c.json",
+					"name" : "map_two",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test-Debug-40201c2159d772476c64.json",
+					"name" : "test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/c/Users/hejia/Desktop/STLite-ACM-2025/map/cmake-build-debug",
+		"source" : "/mnt/c/Users/hejia/Desktop/STLite-ACM-2025/map"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
